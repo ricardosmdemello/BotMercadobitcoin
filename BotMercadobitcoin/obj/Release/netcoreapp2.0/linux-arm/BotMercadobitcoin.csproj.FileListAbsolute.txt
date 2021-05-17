@@ -1,0 +1,15 @@
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\libhostpolicy.so
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\libhostfxr.so
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\appsettings.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.deps.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.runtimeconfig.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.runtimeconfig.dev.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.dll
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.pdb
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.csprojAssemblyReference.cache
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.csproj.CoreCompileInputs.cache
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.AssemblyInfoInputs.cache
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.AssemblyInfo.cs
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.dll
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\linux-arm\BotMercadobitcoin.pdb

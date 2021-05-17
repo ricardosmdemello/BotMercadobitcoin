@@ -1,0 +1,11 @@
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\BotMercadobitcoin.deps.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\BotMercadobitcoin.runtimeconfig.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\BotMercadobitcoin.runtimeconfig.dev.json
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\BotMercadobitcoin.dll
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\bin\Release\netcoreapp2.0\BotMercadobitcoin.pdb
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\BotMercadobitcoin.csproj.CoreCompileInputs.cache
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\BotMercadobitcoin.AssemblyInfoInputs.cache
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\BotMercadobitcoin.AssemblyInfo.cs
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\BotMercadobitcoin.dll
+C:\Users\ricardomello\Desktop\BotMercadobitcoin\BotMercadobitcoin\obj\Release\netcoreapp2.0\BotMercadobitcoin.pdb
